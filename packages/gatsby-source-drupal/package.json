@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "@babel/runtime": "7.0.0-beta.52",
-    "axios": "^0.18.0",
+    "axios": "^0.30.2",
     "bluebird": "^3.5.0",
     "gatsby-source-filesystem": "^2.0.1-beta.10",
     "lodash": "^4.17.4"
